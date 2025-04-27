@@ -40,6 +40,9 @@ python train_vits.py --config_file config.json
 ## Theo dõi quá trình huấn luyện
 
 ## Demo mô hình base MMS-TTS
+Một File streamlit đơn giản được tạo ra để thử nghiệm mô hình MMS-TTS-vie base ở trên HuggingFace, 
 
-![Screenshot (255)](https://github.com/user-attachments/assets/6eeac109-b249-4202-a397-9088a290a437"Màn hình streamlit demo")
+Màn hình Demo:
+![Screenshot (255)](https://github.com/user-attachments/assets/6eeac109-b249-4202-a397-9088a290a437)
 
+[Video Demo](https://drive.google.com/drive/folders/1huEukyhhdalVE8B7zKaW_qYAuKajILRK?usp=sharing) 
