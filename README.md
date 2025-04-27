@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/7b09563c-37b4-4d13-93fb-d1a7d3ed8007)
 # Fine-tuning mô hình MMS-TTS
 
 ## Tham khảo từ github repo sau
@@ -39,3 +39,7 @@ python train_vits.py --config_file config.json
 ````
 
 ## Theo dõi quá trình huấn luyện
+
+## Demo mô hình base MMS-TTS
+![image](https://github.com/user-attachments/assets/9c873bee-ff77-400e-bd7c-8990541960c7)
+
