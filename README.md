@@ -6,7 +6,7 @@ Finetuning mô hình VITS: https://github.com/ylacombe/finetune-hf-vits
 
 
 ## 🗒️ Giới thiệu mô hình
-Dự án này thực hiện fine-tuning mô hình MMS-TTS (Massively Multilingual Speech - Text to Speech) với mục tiêu chuyển đổi giọng đọc từ tiếng Việt miền Nam sang tiếng Việt miền Bắc.
+Dự án này thực hiện fine-tuning mô hình MMS-TTS (Massively Multilingual Speech - Text to Speech) với mục tiêu chuyển đổi giọng đọc từ tiếng Việt miền Nam sang tiếng Việt miền Bắc. Ngoài ra, có thể chỉnh sửa đầu ra để giọng đọc nhanh hơn, chậm hơn, tiếng to hơn, nhỏ hơn.
 Em đã sử dụng mô hình VITS được tích hợp trong HuggingFace Transformers để thực hiện huấn luyện, với khả năng sinh ra giọng đọc tự nhiên, rõ ràng.
 
 * **Kiến trúc**: VITS (Variational Inference Text-to-Speech) với Discriminator tăng cường chất lượng sinh âm thanh.
